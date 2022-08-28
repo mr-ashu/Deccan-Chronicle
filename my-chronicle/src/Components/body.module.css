@@ -1,0 +1,172 @@
+ 
+
+.bbody{
+  width:90%;
+  margin:auto;
+}
+.container{
+  
+  display:flex;
+  border-bottom: 2px solid gray;
+  text-align:left;
+  margin-top:30px;
+  
+}
+ 
+ 
+.middlebox{
+  border-right: 1px solid gray;
+ width:70%;
+ margin-top: 35px;
+ 
+  
+
+}
+.middle {
+ display:flex;
+ 
+ align-items: center;
+  
+ margin-bottom: 10px;
+ text-align:left;
+  border-bottom: 1px solid gray;
+  margin-right: 7px;
+  margin-left: 20px;
+ 
+
+}
+.middle img{
+  width:112px;
+  height:62px;
+ 
+  margin:auto;
+  margin-left: 0;
+  margin-right: 15px;
+  
+
+}
+
+ .left{
+  border:1px solid gray;
+  margin-top: 10px;
+
+ }
+ .left img{
+  width:100%;
+  margin:auto;
+ }
+
+ .rightbox{
+ 
+  width:70%;
+   margin-right: 10px;
+   margin-left: 10px;
+ 
+ background-color: #F8F8F8;
+ box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
+  
+
+}
+.rightbox h2{
+  margin-bottom:7px;
+  margin-left: 15px;
+}
+.right{
+  display:flex;
+ 
+  margin-top: 15px;
+  margin-bottom: 10px;
+ 
+   border-bottom: .5px solid gray;
+   margin-right: 7px;
+   margin-left: 15px;
+ 
+ }
+.right img{
+   
+  width:112px;
+  height:62px;
+  
+  margin:auto;
+  margin-right:0;
+  float:right;
+}
+.entertainment{
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+  background-color:#E6E6E6;
+  padding:20px;
+  border-radius:10px;
+  margin-top: 20px;
+}
+ .enterbox{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:20px;
+ 
+ }
+
+.enter img{
+  width:100%;
+  height:200px;
+}
+ 
+.bbody h2{
+  width:fit-content;
+  border-bottom: 3px solid red;
+  
+  
+}
+  .business{
+    margin-top:30px;
+  }
+.business h2{
+  margin-bottom: -50px;
+}
+.footerbox{
+  box-shadow: -2px -1px 5px 1px #d0d0d0;
+  background-color: #F2F2F2;
+  margin: 30px 0 0 0;
+  padding: 20px;
+}
+.footerbox input{
+  font-size:16px;
+  font-family: inherit;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: start;
+   
+  -webkit-rtl-ordering: logical;
+  cursor: text;
+  padding: 5px 9px 4px 9px;
+  width:35%;
+  border: 2px solid #3079ed;;
+}
+.footerbox button{
+ border: 1px solid #666 ;
+ margin-left: 20px;
+ padding: 5px 2px 4px 2px;
+ 
+}
+.footer{
+ 
+   text-align: center;
+   display: flex;
+   width:max-content ;
+  margin:auto;
+  padding:10px
+  
+}
+ 
+p{
+  padding:0 5px 0 5px;
+}
+ 
+.botm{
+  text-align:left;
+ 
+  width: 90%;
+  margin:auto;
+}
+
